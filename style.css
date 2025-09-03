@@ -9,8 +9,8 @@ body {
 
 .business-card {
   width: 350px; /* Set the width of the card */
-  background-color: grey;
-  border: 1px solid gold;
+  background-color: #ccc;
+  border: 1px solid blue;
   border-radius: 8px;
   overflow: hidden; /* Prevent image overflow */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
